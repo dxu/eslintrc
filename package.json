@@ -1,6 +1,6 @@
 {
   "name": "@dxu/eslintrc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "dxu's personal .eslintrc",
   "main": "index.js",
   "keywords": [],
